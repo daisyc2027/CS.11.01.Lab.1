@@ -8,7 +8,7 @@ public class Dateable {
         String age = scanner.nextLine();
 
         int minAge = Integer.parseInt(age);
-        System.out.println(age + "-year olds should date somebody who is at least " + (minAge / 2 + 7) + "years old");
+        System.out.println(age + "-year olds should date somebody who is at least " + (minAge / 2 + 7) + " years old");
         
     }
 }
